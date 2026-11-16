@@ -1,0 +1,1 @@
+# scriptable-opencode-go-usage
